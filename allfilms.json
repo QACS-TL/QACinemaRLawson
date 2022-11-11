@@ -1,0 +1,49 @@
+{
+  "films":
+  [
+    {
+      "_id": "1",
+      "title": "fortropolis",
+      "shortname": "fortropolis",
+      "synopsis": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam explicabo quibusdam perferendis ipsa nisi doloremque quae eaque voluptas incidunt, adipisci mollitia, facere animi voluptates fugit ad impedit inventore temporibus sit quisquam cupiditate rerum a? Illum!",
+      "agecert": "PG"
+    },
+    {
+      "_id": "2",
+      "title": "the pool",
+      "shortname": "thepool",
+      "synopsis": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam explicabo quibusdam perferendis ipsa nisi doloremque quae eaque voluptas incidunt, adipisci mollitia, facere animi voluptates fugit ad impedit inventore temporibus sit quisquam cupiditate rerum a? Illum!",
+      "agecert": "12A"
+    },
+    {
+      "_id": "3",
+      "title": "francesca",
+      "shortname": "francesca",
+      "synopsis": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam explicabo quibusdam perferendis ipsa nisi doloremque quae eaque voluptas incidunt, adipisci mollitia, facere animi voluptates fugit ad impedit inventore temporibus sit quisquam cupiditate rerum a? Illum!",
+      "agecert": "PG"  
+    },
+    {
+      "_id": "4",
+      "title": "postcards from paris",
+      "shortname": "postcardsfromparis",
+      "synopsis": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam explicabo quibusdam perferendis ipsa nisi doloremque quae eaque voluptas incidunt, adipisci mollitia, facere animi voluptates fugit ad impedit inventore temporibus sit quisquam cupiditate rerum a? Illum!",
+      "agecert": "12A"
+    },
+    {
+      "_id": "5",
+      "title": "welcome to the swamp!",
+      "shortname": "welcometotheswamp",
+      "synopsis": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam explicabo quibusdam perferendis ipsa nisi doloremque quae eaque voluptas incidunt, adipisci mollitia, facere animi voluptates fugit ad impedit inventore temporibus sit quisquam cupiditate rerum a? Illum!",
+      "agecert": "15"
+    },
+    {
+      "_id": "6",
+      "title": "fleeting bloom",
+      "shortname": "fleetingbloom",
+      "synopsis": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam explicabo quibusdam perferendis ipsa nisi doloremque quae eaque voluptas incidunt, adipisci mollitia, facere animi voluptates fugit ad impedit inventore temporibus sit quisquam cupiditate rerum a? Illum!",
+      "agecert": "U"
+    }
+  ]
+}
+  
+  

@@ -1,0 +1,126 @@
+{
+  "films":
+  [
+    {
+      "_id": "1",
+      "title": "fortropolis",
+      "shortname": "fortropolis",
+      "synopsis": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam explicabo quibusdam perferendis ipsa nisi doloremque quae eaque voluptas incidunt, adipisci mollitia, facere animi voluptates fugit ad impedit inventore temporibus sit quisquam cupiditate rerum a? Illum!",
+      "showtimes": ["10:00", "15:00", "18:30"],
+      "agecert": "PG",
+      "nowShowingSrcset": {
+        "small": "fortropolis_la2wkj,w200.png",
+        "medium": "fortropolis_la2wkj,w833.png",
+        "large": "fortropolis_la2wkj,w1181.png",
+        "xlarge": "fortropolis_la2wkj,w1400.png"
+      },
+      "whatsOnSrcset": {
+        "small": "fortropolis_r38okt,w200.png",
+        "medium": "fortropolis_r38okt,w757.png",
+        "large": "fortropolis_r38okt,w1112.png",
+        "xlarge": "fortropolis_r38okt,w1400.png"
+      }
+    },
+    {
+      "_id": "2",
+      "title": "the pool",
+      "shortname": "thepool",
+      "synopsis": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam explicabo quibusdam perferendis ipsa nisi doloremque quae eaque voluptas incidunt, adipisci mollitia, facere animi voluptates fugit ad impedit inventore temporibus sit quisquam cupiditate rerum a? Illum!",
+      "showtimes": ["11:00", "14:30", "19:00"],
+      "agecert": "12A",
+      "nowShowingSrcset": {
+        "small": "thepool_xopek0,w200.jpg",
+        "medium": "thepool_xopek0,w747.jpg",
+        "large": "thepool_xopek0,w1099.jpg",
+        "xlarge": "thepool_xopek0,w1400.jpg"
+      },
+      "whatsOnSrcset": {
+        "small": "thepool_adhcgz,w200.png",
+        "medium": "thepool_adhcgz,w759.png",
+        "large": "thepool_adhcgz,w1108.png",
+        "xlarge": "thepool_adhcgz,w1400.png"
+      }
+    },
+    {
+      "_id": "3",
+      "title": "francesca",
+      "shortname": "francesca",
+      "synopsis": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam explicabo quibusdam perferendis ipsa nisi doloremque quae eaque voluptas incidunt, adipisci mollitia, facere animi voluptates fugit ad impedit inventore temporibus sit quisquam cupiditate rerum a? Illum!",
+      "showtimes": ["11:30", "15:00", "20:00"],
+      "agecert": "PG",
+      "nowShowingSrcset": {
+        "small": "francesca_f6fxhz,w200.jpg",
+        "medium": "francesca_f6fxhz,w961.jpg",
+        "large": "francesca_f6fxhz,w1310.jpg",
+        "xlarge": "francesca_f6fxhz,w1400.jpg"
+      },
+      "whatsOnSrcset": {
+        "small": "francesca_ecyptg,w200.png",
+        "medium": "francesca_ecyptg,w756.png",
+        "large": "francesca_ecyptg,w1109.png",
+        "xlarge": "francesca_ecyptg,w1400.png"
+      }
+    },
+    {
+      "_id": "4",
+      "title": "postcards from paris",
+      "shortname": "postcardsfromparis",
+      "synopsis": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam explicabo quibusdam perferendis ipsa nisi doloremque quae eaque voluptas incidunt, adipisci mollitia, facere animi voluptates fugit ad impedit inventore temporibus sit quisquam cupiditate rerum a? Illum!",
+      "showtimes": ["11:30", "14:30", "19:30"],
+      "agecert": "12A",
+      "nowShowingSrcset": {
+        "small": "postcardsfromparis_jxl3to,w200.jpg",
+        "medium": "postcardsfromparis_jxl3to,w769.jpg",
+        "large": "postcardsfromparis_jxl3to,w1132.jpg",
+        "xlarge": "postcardsfromparis_jxl3to,w1400.jpg"
+      },
+      "whatsOnSrcset": {
+        "small": "postcardsfromparis_nzobmr,w200.png",
+        "medium": "postcardsfromparis_nzobmr,w767.png",
+        "large": "postcardsfromparis_nzobmr,w1111.png",
+        "xlarge": "postcardsfromparis_nzobmr,w1400.png"
+      }
+    },
+    {
+      "_id": "5",
+      "title": "welcome to the swamp!",
+      "shortname": "welcometotheswamp",
+      "synopsis": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam explicabo quibusdam perferendis ipsa nisi doloremque quae eaque voluptas incidunt, adipisci mollitia, facere animi voluptates fugit ad impedit inventore temporibus sit quisquam cupiditate rerum a? Illum!",
+      "showtimes": ["12:30", "15:30", "21:00"],
+      "agecert": "15",
+      "nowShowingSrcset": {
+        "small": "welcometotheswamp_rrcpeh,w200.png",
+        "medium": "welcometotheswamp_rrcpeh,w819.png",
+        "large": "welcometotheswamp_rrcpeh,w1175.png",
+        "xlarge": "welcometotheswamp_rrcpeh,w1400.png"
+      },
+      "whatsOnSrcset": {
+        "small": "welcometotheswamp_yrjn9w,w200.png",
+        "medium": "welcometotheswamp_yrjn9w,w756.png",
+        "large": "welcometotheswamp_yrjn9w,w1104.png",
+        "xlarge": "welcometotheswamp_yrjn9w,w1400.png"
+      }
+    },
+    {
+      "_id": "6",
+      "title": "fleeting bloom",
+      "shortname": "fleetingbloom",
+      "synopsis": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam explicabo quibusdam perferendis ipsa nisi doloremque quae eaque voluptas incidunt, adipisci mollitia, facere animi voluptates fugit ad impedit inventore temporibus sit quisquam cupiditate rerum a? Illum!",
+      "showtimes": ["10:30", "13:00", "18:30"],
+      "agecert": "U",
+      "nowShowingSrcset": {
+        "small": "fleetingbloom_c02cvi,w200.jpg",
+        "medium": "fleetingbloom_c02cvi,w763.jpg",
+        "large": "fleetingbloom_c02cvi,w1132.jpg",
+        "xlarge": "fleetingbloom_c02cvi,w1400.jpg"
+      },
+      "whatsOnSrcset": {
+        "small": "fleetingbloom_wqnfwa,w200.png",
+        "medium": "fleetingbloom_wqnfwa,w750.png",
+        "large": "fleetingbloom_wqnfwa,w1094.png",
+        "xlarge": "fleetingbloom_wqnfwa,w1400.png"
+      }
+    }
+  ]
+}
+
