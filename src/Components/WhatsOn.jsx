@@ -15,7 +15,7 @@ const WhatsOn = () => {
 
   const getFilmInformation = async () => {
     try {
-      const response = await fetch("http://localhost:4002/films", {
+      const response = await fetch("http://localhost:4000/films", {
          method: "GET",
          headers: { "Content-Type": "application/json" },
        });
